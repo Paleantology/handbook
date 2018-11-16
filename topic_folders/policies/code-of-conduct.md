@@ -50,6 +50,18 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
+2.4 Suggestions for Participants
+
+Some of the behaviors listed in section 2.2 could be considered subjective. To assist individuals deciding when conduct might be norm-breaking, we have compiled a few examples of small behavioral substitutions that may be heplful.
+
+|                                Behavior                                | Substitution                                                                                      | Why                                                                                                                                                                                                   |
+|:----------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Referring to behavior as "crazy", or to "sanity checks"               |  Referring to "unexpected behavior" or "gut checks"                                               |  These are examples of ableist language                                                                                                                                                               |
+|  Telling participants to "just" or "simply" perform a task             |  "Let's try ... "                                                                                 | Many participants are novices,  and we should not trivialize that tasks that are easy for  us may not be for them                                                                                     |
+|  Grabbing a participant's  keyboard                                    |  Ask "May I?" before putting your  hands on their computer, or any  other posessions              |  A participant's computer belongs  the participant, and they can deny  you access to it.                                                                                                              |
+| Raising one's voice in anger                                           |  Ask a fellow helper or instructor  to take over for you. If you are a participant, take a break. |  Work place interactions should be  calm. If you're feeling upset and  overwhelmed, ask a co-instructor or helper to take over for you. It's better to rest a moment than create an unsafe situation. |
+|  "Explain it as if you were talking to your mother/sister/grandmother" | "Try to explain this in plain language, as if you were a newspaper writer"                        |  "Mother/sister/grandmother" trades on stereotypes that women are not competent at technology.                                                                                                        |
+
 Update Log:
 
 - 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
